@@ -24,3 +24,6 @@
 - **Output**: Computes YTM and visualizes the Newton-Raphson solver’s convergence in real-time.
 - **Visualization**: Displays a plot of YTM estimates over iterations, with the final YTM value highlighted.
 - **Error Handling**: Validates inputs (e.g., positive price/face value/periods, non-negative coupon).
+
+## Screenshots
+![output](output.png)
